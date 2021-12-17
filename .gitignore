@@ -1,0 +1,22 @@
+/.idea
+/.env
+.env
+/.vscode
+.DS_Store
+local
+/etcd-passwords.txt
+console/apm_example.sh
+
+# Testing artifacts
+/mockgen
+/coverage.out
+/coverage.html
+.golangci.yml
+
+# Built artifact
+/application
+/application.zip
+/version.txt
+/vendor
+/bin
+

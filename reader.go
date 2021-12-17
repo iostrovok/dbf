@@ -1,5 +1,6 @@
-// Package dbf provides code for reading data from FoxPro DBF/FPT files
 package dbf
+
+// Package dbf provides code for reading data from FoxPro DBF/FPT files
 
 import (
 	"bytes"
